@@ -1,5 +1,3 @@
-# 🚀 Full-Stack Developer | MERN Expert |
-
 # 💫 About Me:
 👋 Hi, I'm Hemapathi – a passionate MERN Stack Developer with expertise in building scalable web applications. I love solving problems, optimizing performance, and integrating AI-powered solutions into modern applications.<br>
 
@@ -23,4 +21,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hemahemapathi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+# 📫 Let's Connect:
+
+  📧 Email: hemahemapathi2001@gmail.com
+  🔗 LinkedIn: linkedin.com/in/yourname
+  🌐 Portfolio: your-portfolio.com
+
+💡 Always learning, building, and sharing! 🚀
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
