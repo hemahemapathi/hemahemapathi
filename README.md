@@ -1,5 +1,7 @@
+# 🚀 Full-Stack Developer | MERN Expert |
+
 # 💫 About Me:
-🌱 I’m currently learning<br>
+👋 Hi, I'm Hemapathi – a passionate MERN Stack Developer with expertise in building scalable web applications. I love solving problems, optimizing performance, and integrating AI-powered solutions into modern applications.<br>
 
 
 # 💻 Tech Stack:
