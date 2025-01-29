@@ -16,17 +16,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hemahemapathi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=hemahemapathi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://app.netlify.com/teams/hemahemapathi/sites)
 
 
 # 📫 Let's Connect:
 
-  📧 Email: hemahemapathi2001@gmail.com
-  🔗 LinkedIn: linkedin.com/in/yourname
-  🌐 Portfolio: your-portfolio.com
+  📧 Email: hemahemapathi2001@gmail.com<br>
+  🔗 LinkedIn: https://www.linkedin.com/in/hemapathi-b-17b505257/<br>
+  🌐 Portfolio: https://verdant-sunshine-fb2914.netlify.app/<br>
 
 💡 Always learning, building, and sharing! 🚀
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
