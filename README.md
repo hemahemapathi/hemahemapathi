@@ -15,9 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://app.netlify.com/teams/hemahemapathi/sites)
-
 
 # 📫 Let's Connect:
 
